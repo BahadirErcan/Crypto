@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 ## Kullanım
 
-### Şifreleme (encript.py)
+### Şifreleme (encrypto.py)
 
 ```bash
 # Dosya şifreleme
