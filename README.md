@@ -1,4 +1,4 @@
-# Encription - Şifreleme ve Çözme Aracı
+# Encryption - Şifreleme ve Çözme Aracı
 
 Python ile yazılmış, dosya, dizin ve metin şifreleme/çözme uygulaması.
 
